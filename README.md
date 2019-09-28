@@ -11,6 +11,9 @@
 ## Pictures
 ![alt text](https://forum.fivem.net/uploads/default/original/4X/1/5/d/15d997a9b0723210016ce932e92975d6eda64a74.jpeg "Image 1")
 
+## Other Information
+> You can enable the purple background in `client.lua`. Scroll down to line `61 & 62` and re-comment those. Than restart the resource and it should have the purple background.
+
 ## Credits
 > The original script was created by Elio, but the original creator does not have enough time to update it. So we have taken over and will be updating the script from now on.
 
