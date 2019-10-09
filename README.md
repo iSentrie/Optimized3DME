@@ -17,4 +17,7 @@
 ## Credits
 > The original script was created by Elio, but the original creator does not have enough time to update it. So we have taken over and will be updating the script from now on.
 
+## Need More Help?
+> [Discord Link](https://discord.gg/UTfwx7F) is our offical discord server. If you need more help, you can join the discord and ask for help.
+
 **- Mart475 - Universal Development.**
